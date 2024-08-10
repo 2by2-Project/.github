@@ -9,5 +9,5 @@ We aim to provide AOSP experience with few additional features, and some JP good
 ## Credits
 * **[LineageOS](https://github.com/LineageOS)**
 * **[crDroid Android](https://github.com/crdroidandroid)**
-* **[Evolution X](https://github.com/Evolution-XYZ)**
+* **[Evolution X](https://github.com/Evolution-X)**
 * **[LineageOS "light" GSI Project](https://github.com/AndyCGYan/lineage_patches_unified)**
