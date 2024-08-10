@@ -1,5 +1,4 @@
 ![2by2 Project](https://github.com/2by2-Project/android/raw/14/images/2by2-logo-landscape.png)
-===========
 
 # What's this?
 
