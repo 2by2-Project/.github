@@ -2,8 +2,14 @@
 
 # What's this?
 
-2by2 Project is a which of "JP-focused" custom roms.
+2by2 Project is a lab for personal developments, and products. Created by [kailua](https://github.com/nattolecats).
+
+# 2by2 ROM
+
+2by2 ROM is a which of "JP-focused" custom roms.
 We aim to provide AOSP experience with few additional features, and some JP goodies.
+
+This project is discontinued at 2025/12.
 
 ## Credits
 * **[LineageOS](https://github.com/LineageOS)**
